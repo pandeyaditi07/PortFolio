@@ -1,0 +1,130 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    font-family: Raleway, sans-serif;   
+} 
+.progress{
+    width: 100%; 
+    display: flex; 
+    margin: 3rem 1.5rem; 
+    gap: 15px;   
+} 
+.cont1{ 
+    width: 50%; 
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;  
+} 
+.cont2{ 
+    width: 50%;  
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;  
+} 
+.percentage{ 
+    display: flex; 
+} 
+.html{ 
+    width: 44em;
+    height: 1em; 
+    background-color: rgb(197,234,230); 
+} 
+.percentage1{
+    display: flex; 
+}
+    .css{ 
+        width: 34em;
+        height: 1em; 
+        background-color: rgb(197,234,230); 
+    } 
+.blank{ 
+    background-color: #eeeeee;
+    width: 10em;
+    height: 1em;
+} 
+
+.js{ 
+    width: 10em;
+    height: 1em; 
+    background-color: rgb(197,234,230); 
+
+} 
+.blank1{ 
+    background-color: #eeeeee; 
+    width: 34em;  
+    height: 1em; 
+
+} 
+
+.php{ 
+    width: 22em;
+    height: 1em; 
+    background-color: rgb(197,234,230); 
+
+} 
+.blank2{ 
+    background-color: #eeeeee; 
+    width: 22em;  
+    height: 1em; 
+
+} 
+
+.database{ 
+    width: 34em;
+    height: 1em; 
+    background-color: rgb(197,234,230);  
+}  
+.blank3{ 
+    background-color: #eeeeee; 
+    width: 10em;  
+    height: 1em; 
+
+} 
+.Manual{ 
+    width: 28em;
+    height: 1em; 
+    background-color: rgb(197,234,230);  
+
+} 
+.blank4{ 
+    background-color: #eeeeee; 
+    width: 16em;  
+    height: 1em;  
+
+}
+.resume{
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+} 
+.resume1{ 
+    width: 50%; 
+
+
+}
+.resume1 img{
+    width: 100%;
+    object-fit: fill;
+} 
+
+.maincont1{
+    margin-left: 2rem; 
+    margin-right: 5rem; 
+}  
+
+.download a{ 
+    text-decoration: none; 
+    color: red; 
+    border: 2px solid grey; 
+    padding: 3px 5px; 
+    border-radius: 8px; 
+    background-color:rgb(212,227,220); 
+    border-width: 3px;  
+} 
+.download{ 
+    margin: 2rem 1.5rem;  
+    margin-bottom: 2em;  
+}
+    
